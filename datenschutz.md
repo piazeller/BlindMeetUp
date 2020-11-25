@@ -1,5 +1,3 @@
-Interne Vorlage: [AstA Hochschule Furtwangen](https://sufatreff.asta.hs-furtwangen.de/fu/datenschutzerklaerung/) 
-
 # Datenschutzerklärung
 
 ## 1. Allgemeine Hinweise
