@@ -17,7 +17,7 @@ Fax: 07723 920-1109 <br>
 Web: [www.hs-furtwangen.de](www.hs-furtwangen.de) <br>
 E-Mail: [info@hs-furtwangen.de](info@hs-furtwangen.de)
 
-**Vertreten durch**
+**Vertreten durch** <br>
 Rektor der Hochschule Furtwangen, <br>
 Prof. Dr. Rolf Schofer
 
@@ -25,28 +25,23 @@ Prof. Dr. Rolf Schofer
 
 Für das Projekt Blind MeetUp der Fakultät Digitale Medien sind die einzelnen Projekt-Mitgleider verantwortlich.
 
-**Konzept und Administration**
-
+**Konzept und Administration** <br>
 Manuel Proß, Patrick Kaserer <br>
 E-Mail: [blindlunch@web.de](blindlunch@web.de)
 
-**Redaktion und Marketing**
-
+**Redaktion und Marketing** <br>
 Pia Zeller, Gion Egel, Patrick Neudert <br>
 E-Mail: [blindlunch@web.de](blindlunch@web.de)
 
-**Projektbetreuung**
-
+**Projektbetreuung** <br>
 Prof. Dr. Gabriel Rausch <br>
 E-Mail: [gabriel.rausch@hs-furtwangen.de](gabriel.rausch@hs-furtwangen.de)
 
-**Technische Umsetzung**
-
+**Technische Umsetzung** <br>
 Rechenzentrum der Hochschule Furtwangen <br>
 E-Mail: [???](???)
 
-### Verbraucherstreitbeilegung
-
+### Verbraucherstreitbeilegung <br>
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren einer Verbraucherschlichtungsstelle teilzunehmen.
 
 ## Haftungsausschluss
