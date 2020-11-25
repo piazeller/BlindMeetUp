@@ -1,5 +1,3 @@
-[Zurück](https://gionegel.github.io/BlindMeetUp/)
-
 # Impressum
 
 Die nachstehenden Informationen enthalten die gesetzlich vorgesehenen Pflichangaben zur Anbieterkennzeichnung und weitere Hinweise des Internet-Angebots [blind-meetup.dm.hs-furtwangen.de](https://www.blind-meetup.dm.hs-furtwangen.de).
