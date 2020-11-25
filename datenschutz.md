@@ -1,61 +1,33 @@
 # Datenschutzerklärung
 
-Die nachstehenden Informationen enthalten die gesetzlich vorgesehenen Pflichangaben zur Anbieterkennzeichnung und weitere Hinweise des Internet-Angebots [blind-meetup.dm.hs-furtwangen.de](https://www.blind-meetup.dm.hs-furtwangen.de).
+## 1. Name und Anschrift des Verantwortlichen
 
-## Anbieter der Internetseiten gemäß §5 TMG
+Der Verantwortliche im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze der
+Mitgliedsstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist:
 
-[www.blind-meetup.dm.hs-furtwangen.de](www.blind-meetup.dm.hs-furtwangen.de)
-
-Hochschule Furtwangen <br>
+**Hochschule Furtwangen <br>
 Robert-Gerwig-Platz 1 <br>
-78120 Furtwangen
+78120 Furtwangen 
 
 Tel.: 07723 920-0 <br>
 Fax: 07723 920-1109 <br>
-Web: [www.hs-furtwangen.de](www.hs-furtwangen.de) <br>
 E-Mail: [info@hs-furtwangen.de](info@hs-furtwangen.de)
+Web: [www.hs-furtwangen.de](www.hs-furtwangen.de)
 
 **Vertreten durch** <br>
 Rektor der Hochschule Furtwangen, <br>
 Prof. Dr. Rolf Schofer
 
-## Verantwortlichkeiten
+## 2. Name und Anschrift des Datenschutzbeauftragten
 
-Für das Projekt Blind MeetUp der Fakultät Digitale Medien sind die einzelnen Projekt-Mitgleider verantwortlich.
+Prof. Dr. Dirk Koschützki <br>
+Hochschule Furtwangen <br>
+Robert-Gerwig-Platz 1 <br>
+78120 Furtwangen 
 
-**Konzept und Administration** <br>
-Manuel Proß, Patrick Kaserer <br>
-E-Mail: [blindlunch@web.de](blindlunch@web.de)
+E-Mail: [datenschutzbeauftragter@hs-furtwangen.de](datenschutzbeauftragter@hs-furtwangen.de)
 
-**Redaktion und Marketing** <br>
-Pia Zeller, Gion Egel, Patrick Neudert <br>
-E-Mail: [blindlunch@web.de](blindlunch@web.de)
-
-**Projektbetreuung** <br>
-Prof. Dr. Gabriel Rausch <br>
-E-Mail: [gabriel.rausch@hs-furtwangen.de](gabriel.rausch@hs-furtwangen.de)
-
-**Technische Umsetzung** <br>
-Rechenzentrum der Hochschule Furtwangen <br>
-E-Mail: [???](???)
-
-### Verbraucherstreitbeilegung <br>
-Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren einer Verbraucherschlichtungsstelle teilzunehmen.
-
-## Haftungsausschluss
-
-### Haftung für Inhalte
-
-Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.  Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
-
-### Haftung für Links
-
-Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.  Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.  
-
-### Urheberrecht
-
-Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.  Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
-
+## 3. Allgemeines zur Datenverarbeitung
 
 ---
 [Nach oben &#x25B2;](#top)
