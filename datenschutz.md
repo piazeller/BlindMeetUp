@@ -11,7 +11,7 @@ Robert-Gerwig-Platz 1 <br>
 
 Tel.: 07723 920-0 <br>
 Fax: 07723 920-1109 <br>
-E-Mail: [info@hs-furtwangen.de](info@hs-furtwangen.de)
+E-Mail: [info@hs-furtwangen.de](info@hs-furtwangen.de) <br>
 Web: [www.hs-furtwangen.de](www.hs-furtwangen.de)
 
 **Vertreten durch** <br>
