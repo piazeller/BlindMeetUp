@@ -2,7 +2,7 @@
 
 ## 1. Allgemeine Hinweise
 
-Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.
+Die folgenden Hinweise geben einen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen und die von uns angebotenen Dienste nutzen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer Datenschutzerklärung.
 
 ## 2. Name und Anschrift des Verantwortlichen
 
@@ -18,7 +18,7 @@ Fax: 07723 920-1109 <br>
 E-Mail: [info@hs-furtwangen.de](info@hs-furtwangen.de) <br>
 Web: [www.hs-furtwangen.de](www.hs-furtwangen.de)
 
-**Vertreten durch** <br>
+**Vertreten durch:** <br>
 Rektor der Hochschule Furtwangen, <br>
 Prof. Dr. Rolf Schofer
 
@@ -52,6 +52,7 @@ Ist die Verarbeitung zur Wahrung eines berechtigten Interesses unseres Unternehm
 ### (c) Datenlöschung und Speicherdauer
 
 Die personenbezogenen Daten der betroffenen Person werden gelöscht oder gesperrt, sobald der Zweck der Speicherung entfällt. Eine Speicherung kann darüber hinaus erfolgen, wenn dies durch den europäischen oder nationalen Gesetzgeber in unionsrechtlichen Verordnungen, Gesetzen oder sonstigen Vorschriften, denen der Verantwortliche unterliegt, vorgesehen wurde. Eine Sperrung oder Löschung der Daten erfolgt auch dann, wenn eine durch die genannten Normen vorgeschriebene Speicherfrist abläuft, es sei denn, dass eine Erforderlichkeit zur weiteren Speicherung der Daten für einen Vertragsabschluss oder eine Vertragserfüllung besteht.
+So werden alle Daten innerhalb von 30 Tagen bei Inaktivität des Nutzer automatisiert aus unseren Systemen geschlöst.
 
 ## 5. Bereitstellung der Website und Erstellung von Logfiles
 
@@ -60,9 +61,9 @@ Die personenbezogenen Daten der betroffenen Person werden gelöscht oder gesperr
 Bei jedem Aufruf unserer Internetseite erfasst unser System automatisiert Daten und Informationen vom Computersystem des aufrufenden Rechners.
 Folgende Daten werden hierbei erhoben:
 
-* Informationen über den Browsertyp und die verwendete Version
-* Das Betriebssystem des Nutzers
-* Die IP-Adresse des Nutzers
+* Informationen über den Browsertyp und die verwendete Version sowie Browser-Sprache
+* Betriebssystem des Nutzers
+* IP-Adresse des Geräts
 * Datum und Uhrzeit des Zugriffs
 * Websites, die vom System des Nutzers über unsere Website aufgerufen werden
 
@@ -94,14 +95,14 @@ Die Erfassung der Daten zur Bereitstellung der Website und die Speicherung der D
 
 ### (a) Beschreibung und Umfang der Datenverarbeitung
 
-Auf unserer Internetseite besteht die Möglichkeit Informationen zu den gefolgten Referaten per Mail zu bekommen. Dabei werden bei der Aktivierung des Dienstes auf der Profilseite die beim Login an uns übermittelten Daten verwendet.
+Auf unserer Internetseite besteht die Möglichkeit Informationen zu den angebotenen Angeboten (Teilnahme an Treffen) per Mail zu bekommen. Dabei werden bei der Aktivierung des Dienstes auf der Profilseite die beim Login an uns übermittelten Daten verwendet.
 
 Zudem werden folgende Daten bei der Anmeldung erhoben:
 
 * IP-Adresse des aufrufenden Rechners
-* Datum und Uhrzeit der Registrierung
+* Datum und Uhrzeit des Zugriffs
 
-Es erfolgt im Zusammenhang mit der Datenverarbeitung für den Versand von automatisierten E-Mails keine Weitergabe der Daten an Dritte. Die Daten werden ausschließlich für den Versand der Referat-Informationen verwendet.
+Es erfolgt im Zusammenhang mit der Datenverarbeitung für den Versand von automatisierten E-Mails keine Weitergabe der Daten an Dritte. Die Daten werden ausschließlich für den Versand der Informationen zu bevorstehenden oder angemeldeten Treffen verwendet.
 
 ### (b) Rechtsgrundlage für die Datenverarbeitung
 
@@ -109,27 +110,26 @@ Rechtsgrundlage für die Verarbeitung der Daten nach Aktivierung der Benachricht
 
 ### (c) Zweck der Datenverarbeitung
 
-Die Erhebung der E-Mail-Adresse des Nutzers dient dazu, den Newsletter zuzustellen.
+Die Erhebung der E-Mail-Adresse des Nutzers dient dazu, den Newsletter oder Benachrichtigungen zuzustellen.
 
 Die Erhebung sonstiger personenbezogener Daten im Rahmen des Anmeldevorgangs dient dazu, einen Missbrauch der Dienste oder der verwendeten E-Mail-Adresse zu verhindern.
 
 ### (d) Dauer der Speicherung
 
-Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Die E-Mail-Adresse des Nutzers wird demnach solange gespeichert, wie das Abonnement der Benachrichtigungen aktiv ist. Bzw. bis zum Ende eines Semesters.
+Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Die E-Mail-Adresse des Nutzers wird demnach solange gespeichert, wie das Abonnement der Benachrichtigungen aktiv ist bzw. bis das Profil gelöscht wird oder die Frist der Inaktivität 30 Tage überstigt.
 
 ### (e) Widerspruchs- und Beseitigungsmöglichkeit
 
-Das Abonnement des Newsletters kann durch den betroffenen Nutzer jederzeit gekündigt werden. Zu diesem Zweck findet sich auf der Profilseite eine Glocke, die jederzeit wieder deaktiviert werden kann.
+Das Abonnement des Newsletters kann durch den betroffenen Nutzer jederzeit gekündigt werden. Zu diesem Zweck findet sich auf der Profilseite die Möglichkeit, die jederzeit deaktiviert werden kann.
 
 ## 7. Kontaktformular und Kontakt per E-Mail
 
 ### (a) Beschreibung und Umfang der Datenverarbeitung
 
-Auf unserer Internetseite ist ein Kontakt-Button vorhanden, welcher für die elektronische Kontaktaufnahme genutzt werden kann. Nimmt ein Nutzer diese Möglichkeit wahr, so wird er an die Kontaktemailadresse weitergeleitet.
+Auf unserer Internetseite ist ein Kontaktformular enthalten, welches für die elektronische Kontaktaufnahme genutzt werden kann. Nimmt ein Nutzer diese Möglichkeit wahr, so werden die jeweiligen Angaben an die verantwortlichen internen Mitglieder des Projekts weitergeleitet.
 
-In diesem Fall werden die mit der E-Mail übermittelten personenbezogenen Daten des Nutzers gespeichert.
-
-Es erfolgt in diesem Zusammenhang keine Weitergabe der Daten an Dritte. Die Daten werden ausschließlich für die Verarbeitung der Konversation verwendet.
+In diesem Fall werden die mit der E-Mail übermittelten personenbezogenen Daten des Nutzers für den Zweck der Kontakierung.
+Es erfolgt in diesem Zusammenhang keine Weitergabe der Daten an Dritte.
 
 ### (b) Rechtsgrundlage für die Datenverarbeitung
 
@@ -255,7 +255,7 @@ In Ausübung dieses Rechts haben Sie ferner das Recht, zu erwirken, dass die Sie
 
 #### Widerspruchsrecht
 
-Sie haben das Recht, aus Gründen, die sich aus ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten, die aufgrund von Art. 6 Abs. 1 lit. e oder f DSGVO erfolgt, Widerspruch einzulegen; dies gilt auch für ein auf diese Bestimmungen gestütztes Profiling.
+Sie haben das Recht, aus Gründen, die sich aus ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten, die aufgrund von Art. 6 Abs. 1 lit. e oder f DSGVO erfolgt, Widerspruch einzulegen.
 
 Der Verantwortliche verarbeitet die Sie betreffenden personenbezogenen Daten nicht mehr, es sei denn, er kann zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
 
